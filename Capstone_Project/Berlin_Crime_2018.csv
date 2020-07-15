@@ -1,14 +1,4 @@
-LOR-Schlüssel (Bezirksregion),Bezeichnung (Bezirksregion),"Straftaten 
--insgesamt-",Raub,"Straßenraub,
-Handtaschen-raub","Körper-verletzungen 
--insgesamt-",Gefährl und schwere Körper-verletzung,"Freiheits-beraubung, Nötigung,
-Bedrohung, Nachstellung","Diebstahl 
--insgesamt-",Diebstahl von Kraftwagen,"Diebstahl 
-an/aus Kfz","Fahrrad-
-diebstahl","Wohnraum
--einbruch","Branddelikte 
--insgesamt-","Brand-
-stiftung",Sach-beschädigung -insgesamt-,Sach-beschädigung durch Graffiti,Rauschgif-tdelikte,Kieztaten
+LOR-Bezirksregion,Bezirksregion,Straftateninsgesamt,Raub,Straßenraub,Handtaschenraub,Körperverletzungen-insgesamt-,Gefährl und schwere Körperverletzung,Freiheitsberaubung,Nötigung,Bedrohung,Nachstellung,Diebstahl-insgesamt-,Diebstahl von Kraftwagen,Diebstahl an/aus Kfz,Fahrraddiebstahl,Wohnraumeinbruch,Branddelikte-insgesamt-,Brandstiftung,Sachbeschädigung-insgesamt-,Sachbeschädigung durch Graffiti,Rauschgiftdelikte,Kieztaten
 010000,Mitte,85227,733,449,7450,1854,2068,37802,465,3654,4173,775,245,75,5528,1510,3792,14899
 010111,Tiergarten Süd,5171,70,58,416,125,103,2540,17,274,310,39,14,3,284,42,273,1247
 010112,Regierungsviertel,9146,34,16,519,110,114,3883,15,199,372,35,6,1,407,159,133,857
