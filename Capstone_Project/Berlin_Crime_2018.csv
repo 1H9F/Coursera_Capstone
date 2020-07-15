@@ -1,4 +1,4 @@
-LORSchlüssel,Bezirksregion,Straftaten insgesamt,Raub,Straßenraub und Handtaschenraub,Körperverletzungeninsgesamt,Gefährl und schwere Körperverletzung,Freiheitsberaubung,Nötigung,Bedrohung,Nachstellung,Diebstahlinsgesamt,Diebstahl von Kraftwagen,Diebstahl an/aus Kfz,Fahrraddiebstahl,Wohnraumeinbruch,Branddelikteinsgesamt,Brandstiftung,Sachbeschädigunginsgesamt,Sachbeschädigung durch Graffiti,Rauschgiftdelikte,Kieztaten
+LORSchlüssel,Bezirksregion,Straftaten insgesamt,Raub,Straßenraub und Handtaschenraub,Körperverletzungeninsgesamt,Gefährl und schwere Körperverletzung,Freiheitsberaubung,Nötigung,Bedrohung,Nachstellung,Diebstahlinsgesamt,Diebstahl von Kraftwagen,Diebstahl an aus Kfz,Fahrraddiebstahl,Wohnraumeinbruch,Branddelikteinsgesamt,Brandstiftung,Sachbeschädigunginsgesamt,Sachbeschädigung durch Graffiti,Rauschgiftdelikte,Kieztaten
 10000,Mitte,85227,733,449,7450,1854,2068,37802,465,3654,4173,775,245,75,5528,1510,3792,14899
 10111,Tiergarten Süd,5171,70,58,416,125,103,2540,17,274,310,39,14,3,284,42,273,1247
 10112,Regierungsviertel,9146,34,16,519,110,114,3883,15,199,372,35,6,1,407,159,133,857
@@ -23,11 +23,11 @@ LORSchlüssel,Bezirksregion,Straftaten insgesamt,Raub,Straßenraub und Handtasch
 29900,Bezirk FhKb, nicht zuzuordnen,1939,45,40,138,49,34,1057,16,146,121,0,5,1,114,13,143,293
 30000,Pankow,36826,320,177,3109,753,1044,17761,603,2046,4260,711,197,71,3760,1082,746,7325
 30101,Buch,1477,11,2,179,37,72,635,15,66,144,13,12,6,176,47,33,337
-30202,Blankenfelde/Niederschönhausen,1672,10,6,124,15,46,800,28,134,200,40,8,4,153,20,16,309
+30202,Blankenfelde Niederschönhausen,1672,10,6,124,15,46,800,28,134,200,40,8,4,153,20,16,309
 30203,Buchholz,789,6,3,70,10,28,329,25,50,58,23,7,2,92,12,9,161
 30304,Karow,870,4,2,84,20,29,418,3,102,126,34,1,0,107,18,13,200
-30307,Blankenburg/Heinersdorf/Märchenland,1329,7,4,94,21,36,693,20,107,102,59,8,2,131,31,12,185
-30405,Schönholz/Wilhelmsruh/Rosenthal,990,10,6,77,20,30,450,20,114,50,48,11,3,98,15,14,169
+30307,Blankenburg Heinersdorf Märchenland,1329,7,4,94,21,36,693,20,107,102,59,8,2,131,31,12,185
+30405,Schönholz Wilhelmsruh Rosenthal,990,10,6,77,20,30,450,20,114,50,48,11,3,98,15,14,169
 30406,Pankow Zentrum,3303,27,19,207,46,93,1854,47,175,580,63,15,3,296,95,43,660
 30408,Pankow Süd,2503,35,23,219,52,94,1070,53,134,387,63,15,6,260,74,40,569
 30509,Weißensee,3017,21,12,327,88,127,1399,73,146,278,63,23,6,336,51,47,748
@@ -67,7 +67,7 @@ LORSchlüssel,Bezirksregion,Straftaten insgesamt,Raub,Straßenraub und Handtasch
 50206,Wilhelmstadt,6258,56,27,666,185,208,2681,32,208,234,57,20,8,451,52,134,1268
 50307,Haselhorst,1619,15,9,170,25,63,772,43,147,56,24,10,5,133,19,24,414
 50308,Siemensstadt,1572,17,6,152,34,46,773,34,94,169,31,4,1,128,35,17,417
-50409,Gatow/Kladow,931,7,3,104,21,58,395,12,61,38,66,9,3,82,2,11,217
+50409,Gatow Kladow,931,7,3,104,21,58,395,12,61,38,66,9,3,82,2,11,217
 59900,Bezirk Sp, nicht zuzuordnen,752,20,18,64,22,40,364,17,127,45,0,6,4,70,6,26,165
 60000,SteglitzZehlendorf,23668,137,63,1862,373,821,11633,334,2310,2122,663,154,57,2452,618,460,4525
 60101,Schloßstr,3551,24,15,205,45,60,2152,21,113,302,33,10,0,191,52,50,445
@@ -90,7 +90,7 @@ LORSchlüssel,Bezirksregion,Straftaten insgesamt,Raub,Straßenraub und Handtasch
 79900,Bezirk ThSb, nicht zuzuordnen,1161,21,17,84,20,47,692,18,126,103,0,2,1,58,7,35,194
 80000,Neukölln,41681,505,286,4030,1153,1379,19562,452,3335,1849,736,241,110,3870,635,1633,10040
 80101,Schillerpromenade,5118,80,46,530,181,121,2316,36,363,229,86,36,21,431,77,371,1271
-80102,Neuköllner Mitte/Zentrum,8416,106,56,703,214,182,4453,49,526,376,67,33,16,589,62,332,1537
+80102,Neuköllner Mitte Zentrum,8416,106,56,703,214,182,4453,49,526,376,67,33,16,589,62,332,1537
 80103,Reuterstraße,6116,53,28,584,210,136,2889,28,364,401,69,21,10,492,169,331,1355
 80104,Rixdorf,4840,33,18,533,144,198,2086,33,299,318,88,23,10,516,102,236,1361
 80105,Köllnische Heide,2599,25,7,261,74,103,1124,36,287,45,42,24,9,367,19,88,622
@@ -108,17 +108,17 @@ LORSchlüssel,Bezirksregion,Straftaten insgesamt,Raub,Straßenraub und Handtasch
 90205,Oberschöneweide,2456,16,8,355,78,105,892,61,210,115,26,18,7,268,51,81,689
 90206,Niederschöneweide,2424,31,18,216,39,63,1115,30,94,137,17,7,6,206,108,108,365
 90207,Adlershof,2329,19,9,189,44,54,1193,39,153,234,35,8,4,249,87,46,404
-90208,Köllnische Vorstadt/Spindlersfeld,865,9,3,112,21,40,324,15,57,76,13,6,2,114,29,35,227
+90208,Köllnische Vorstadt Spindlersfeld,865,9,3,112,21,40,324,15,57,76,13,6,2,114,29,35,227
 90309,Altglienicke,1635,10,7,179,28,72,674,56,144,101,68,10,2,183,36,34,396
 90310,Bohnsdorf,1016,7,4,119,16,32,437,32,60,51,36,9,3,88,13,7,207
 90311,Grünau,606,3,1,29,5,14,268,7,48,87,16,8,3,117,79,5,85
-90312,Schmöckwitz/Karolinenhof/Rauchfangswerder,184,0,0,17,1,3,74,3,15,12,8,4,2,21,2,3,37
+90312,Schmöckwitz Karolinenhof Rauchfangswerder,184,0,0,17,1,3,74,3,15,12,8,4,2,21,2,3,37
 90413,KöpenickSüd,844,0,0,84,14,32,345,17,86,61,36,19,3,114,11,10,210
 90414,AllendeViertel,367,4,2,28,5,21,174,10,34,29,6,3,2,46,7,7,76
 90415,AltstadtKietz,689,2,1,120,29,30,211,7,24,59,1,3,1,98,18,21,207
 90416,Müggelheim,234,2,1,20,4,9,84,5,30,13,9,4,4,25,6,5,44
 90517,Friedrichshagen,1219,6,5,107,28,30,585,29,49,214,13,8,5,158,39,10,233
-90518,Rahnsdorf/Hessenwinkel,563,2,0,30,6,15,261,6,52,95,24,4,3,50,9,10,62
+90518,Rahnsdorf Hessenwinkel,563,2,0,30,6,15,261,6,52,95,24,4,3,50,9,10,62
 90519,Dammvorstadt,1475,9,5,143,49,36,659,10,54,116,8,3,1,146,27,31,282
 90520,KöpenickNord,637,13,9,67,10,24,258,10,41,76,35,6,1,93,12,13,168
 99900,Bezirk TpKp, nicht zuzuordnen,973,19,18,86,24,58,460,29,113,87,1,11,7,82,19,15,213
@@ -151,15 +151,15 @@ LORSchlüssel,Bezirksregion,Straftaten insgesamt,Raub,Straßenraub und Handtasch
 120000,Reinickendorf,29263,238,109,2878,665,1160,10630,374,2155,988,673,135,51,2353,399,848,6026
 121031,Ost 1  Reginhardstr,2572,32,12,340,74,126,896,41,172,110,62,18,9,242,40,63,750
 121032,Ost 2  AltReinickendorf,3408,36,15,285,58,143,1415,52,290,120,67,14,3,303,80,135,682
-122141,West 1  TegelSüd/Flughafensee,4996,11,4,271,72,107,825,30,195,41,37,10,6,170,6,209,545
+122141,West 1  TegelSüd Flughafensee,4996,11,4,271,72,107,825,30,195,41,37,10,6,170,6,209,545
 122144,West 4  AugusteViktoriaAllee,3429,28,16,422,101,149,1309,22,250,78,46,20,7,281,28,83,781
-122145,West 5  Tegel/Tegeler Forst,2045,19,8,196,50,72,968,5,61,70,28,4,1,181,43,35,374
-122242,West 2  Heiligensee/Konradshöhe,970,7,3,93,19,39,385,14,104,46,67,4,2,87,10,32,189
-122311,Nord 1  Frohnau/Hermsdorf,2079,13,3,136,29,57,989,52,347,187,160,13,7,203,31,32,338
-123012,Nord 2  Waidmannslust/Wittenau/Lübars,3074,25,11,375,98,144,1168,35,168,132,97,11,3,311,83,95,765
+122145,West 5  Tegel Tegeler Forst,2045,19,8,196,50,72,968,5,61,70,28,4,1,181,43,35,374
+122242,West 2  Heiligensee Konradshöhe,970,7,3,93,19,39,385,14,104,46,67,4,2,87,10,32,189
+122311,Nord 1  Frohnau Hermsdorf,2079,13,3,136,29,57,989,52,347,187,160,13,7,203,31,32,338
+123012,Nord 2  Waidmannslust Wittenau Lübars,3074,25,11,375,98,144,1168,35,168,132,97,11,3,311,83,95,765
 123021,MV 1  Märkisches Viertel,3125,44,22,464,101,184,1135,76,257,69,34,30,8,269,15,95,918
 123022,MV 2  Rollbergsiedlung,859,5,2,102,21,51,298,7,54,24,19,2,0,107,29,18,204
-123043,West 3  Borsigwalde/Freie Scholle,1135,6,3,94,21,50,506,28,121,59,55,4,3,136,32,18,267
+123043,West 3  Borsigwalde Freie Scholle,1135,6,3,94,21,50,506,28,121,59,55,4,3,136,32,18,267
 129900,Bezirk Rd, nicht zuzuordnen,1571,12,10,100,21,38,736,12,136,52,1,5,2,63,2,33,213
 999900,Stadtgebiet Berlin, nicht zuzuordnen,46075,65,32,512,157,694,7191,28,403,257,6,4,3,851,402,566,1399
 999999,Berlin PKS gesamt,511677,4267,2449,43340,10813,14659,217148,5699,29080,30235,7574,2338,889,40734,9505,17266,99162
